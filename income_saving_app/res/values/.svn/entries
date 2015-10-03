@@ -1,0 +1,29 @@
+8
+
+dir
+21
+http://idealabs:81/svn/miniidealabs2012/incomesaving/trunk/income_saving_app/res/values
+http://idealabs:81/svn/miniidealabs2012
+
+
+
+2012-07-16T11:13:05.156250Z
+21
+ayush
+
+
+svn:special svn:externals svn:needs-lock
+
+strings.xml
+file
+
+
+
+
+2012-06-25T09:22:30.393373Z
+cffe1658b1a139cdd0ff8fc4d2a44c31
+2012-07-16T11:13:05.156250Z
+21
+ayush
+has-props
+

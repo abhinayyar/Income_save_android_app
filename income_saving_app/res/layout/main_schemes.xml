@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aa"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal">
+        
+        <TextView
+            android:id="@+id/maintext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textSize="18dp"
+            android:text=" Saving Schemes"
+            android:gravity="center"
+            android:layout_span="6"></TextView>
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="Policy Name"
+            android:id="@+id/textView2"
+            android:textColor="#FFA500"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/TextView04"
+             android:textColor="#FFA500"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:text="Installments"></TextView>
+        
+       
+        <TextView
+            android:id="@+id/TextView048"
+             android:text="Period"
+             android:textColor="#FFA500"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+        
+        <TextView
+            android:id="@+id/TextView049"
+             android:text="Rate"
+             android:textColor="#FFA500"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+      
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow2"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="X"
+            android:id="@+id/a"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/aa"
+            android:text="X"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/aaa"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/aaaa"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow3"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="X"
+            android:id="@+id/b"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/bb"
+            android:text="X"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/bbb"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/bbbb"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow4"
+        android:layout_marginTop="2dp"
+        
+        android:layout_width="match_parent">
+        <TextView
+           android:text="X"
+            android:id="@+id/c"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/cc"
+            android:text="X"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/ccc"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/cccc"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow5"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="X"
+            android:id="@+id/d"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/dd"
+            android:text="X"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/ddd"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/ddd"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow5"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="X"
+            android:id="@+id/e"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/ee"
+            android:text="X"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/eee"
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/eee"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    
+     
+    <Button
+        android:id="@+id/butknow"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="80dp"
+        android:text="Known More" />
+</TableLayout>
+

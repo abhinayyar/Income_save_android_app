@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:background="@drawable/aa"
+  android:orientation="vertical"
+  >
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_marginTop="5dp"
+  android:text="@string/name"
+  />
+  <EditText
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+   android:layout_marginTop="2dp"
+   android:hint="Enter your username"
+  android:id="@+id/txtName"
+  android:autoText="false"
+  />
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+   android:layout_marginTop="5dp"
+  android:text="Enter your Password"
+  />
+  <EditText
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+   android:layout_marginTop="2dp"
+   android:inputType="textPassword" 
+   android:hint="Enter your password"
+  android:id="@+id/txtPassword"
+  android:autoText="false"
+  />
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+   android:layout_marginTop="5dp"
+  android:text="@string/salary"
+  
+  />
+  <EditText
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+   android:layout_marginTop="2dp"
+  android:id="@+id/txtSal"
+  android:inputType="number"
+  android:hint="Enter your monthly salary"
+  android:digits="0123456789"
+  android:singleLine="true"
+  />
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+   android:layout_marginTop="5dp"
+  android:text="@string/time"
+  
+  />
+  <EditText
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+   android:layout_marginTop="2dp"
+  android:id="@+id/txttime"
+  android:inputType="number"
+  android:digits="0123456789"
+  android:hint="Enter time in 24 hr format"
+  android:singleLine="true"
+  />
+  
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+   android:layout_marginTop="5dp"
+  android:text="Enter alarm type"
+  
+  />
+  <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+         android:layout_marginTop="2dp"
+        android:layout_height="wrap_content" />
+
+ 
+  
+  <Button
+  android:layout_width="150dp"
+  android:layout_height="wrap_content"
+   android:layout_marginTop="10dp"
+   android:layout_marginLeft="70dp"
+  android:id="@+id/btnAdd"
+  android:text="@string/but"
+  android:onClick="btnAddEmp_Click"
+  />
+  
+</LinearLayout>

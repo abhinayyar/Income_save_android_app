@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aa"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal">
+        
+        <TextView
+            android:id="@+id/maintext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:textSize="18dp"
+            android:text=" Yearly Spendings"
+            android:gravity="center"
+            android:layout_span="6"></TextView>
+    </TableRow>
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="Month"
+            android:id="@+id/textView2"
+            android:textColor="#FFA500"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/TextView04"
+            android:text=""></TextView>
+        
+       
+        <TextView
+            android:id="@+id/TextView048"
+             android:text="Spendings"
+             android:textColor="#FFA500"
+            android:textStyle="bold"
+            android:typeface="serif"></TextView>
+      
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow2"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="January"
+            android:id="@+id/a"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/aa"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/aaa"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow3"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="Feburary"
+            android:id="@+id/b"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/bb"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/bbb"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow4"
+        android:layout_marginTop="2dp"
+        
+        android:layout_width="match_parent">
+        <TextView
+            android:text="March"
+            android:id="@+id/c"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/cc"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/ccc"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow5"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="April"
+            android:id="@+id/d"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/dd"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/ddd"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow6"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="May"
+            android:id="@+id/e"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/ee"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/eee"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow7"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="June"
+            android:id="@+id/f"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/ff"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/fff"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow8"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="July"
+            android:id="@+id/g"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/gg"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/ggg"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow9"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="August"
+            android:id="@+id/h"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/hh"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/hhh"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow10"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="September"
+            android:id="@+id/i"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/ii"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/iii"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow11"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="October"
+            android:id="@+id/j"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/jj"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/jjj"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow12"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="November"
+            android:id="@+id/k"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/kk"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/kkk"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+    <TableRow
+        android:layout_height="wrap_content"
+        android:id="@+id/tableRow13"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:text="December"
+            android:id="@+id/l"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:id="@+id/ll"
+          
+            android:gravity="center_horizontal"></TextView>
+        <TextView
+            android:text="X"
+            android:id="@+id/lll"
+            android:gravity="center_horizontal"></TextView>
+        
+    </TableRow>
+   
+</TableLayout>

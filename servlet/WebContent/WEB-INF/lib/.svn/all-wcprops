@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib
+END
+ezmorph.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/ezmorph.jar
+END
+ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/ojdbc14.jar
+END
+commons-collections.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/commons-collections.jar
+END
+json-lib-2.2.3-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/json-lib-2.2.3-jdk15.jar
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/commons-lang.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/servlet-api.jar
+END
+json-lib-2.2.3-jdk15-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/json-lib-2.2.3-jdk15-javadoc.jar
+END
+commons-beanutils-1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/miniidealabs2012/!svn/ver/23/incomesaving/trunk/incomesavingserver/WebContent/WEB-INF/lib/commons-beanutils-1.7.jar
+END

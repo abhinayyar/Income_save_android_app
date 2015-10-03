@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Input of small time saves money</string>
+    <string name="app_name">Income Saving Application</string>
+    <string name="name">Enter your User Name</string>
+    <string name="salary">Enter your Salary</string>
+    <string name="time">Enter Time to access Application </string>
+     <string name="dis">Enter your time of convenience</string>
+      <string name="but">Submit</string>
+
+</resources>

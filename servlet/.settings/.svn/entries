@@ -1,0 +1,90 @@
+8
+
+dir
+23
+http://idealabs:81/svn/miniidealabs2012/incomesaving/trunk/incomesavingserver/.settings
+http://idealabs:81/svn/miniidealabs2012
+
+
+
+2012-07-16T11:14:28.734375Z
+23
+ayush
+
+
+svn:special svn:externals svn:needs-lock
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2012-07-05T05:50:20.038189Z
+c86ed96ce862e98fe8f5c3e5204eeb5b
+2012-07-16T11:14:28.734375Z
+23
+ayush
+has-props
+
+org.eclipse.wst.jsdt.ui.superType.name
+file
+
+
+
+
+2012-07-05T05:50:23.958413Z
+c89686a387d2b12b3c729ce35a0bcb5b
+2012-07-16T11:14:28.734375Z
+23
+ayush
+
+org.eclipse.wst.jsdt.ui.superType.container
+file
+
+
+
+
+2012-07-05T05:50:23.982414Z
+b27d1cf62dde4473bab7c433317bb0ce
+2012-07-16T11:14:28.734375Z
+23
+ayush
+
+org.eclipse.wst.common.project.facet.core.xml
+file
+
+
+
+
+2012-07-05T05:50:24.025417Z
+9f7491fe84e03f858533d4ff51de991f
+2012-07-16T11:14:28.734375Z
+23
+ayush
+has-props
+
+.jsdtscope
+file
+
+
+
+
+2012-07-05T05:50:23.956413Z
+ca98a280c794a74fb47e1b5282e1e51a
+2012-07-16T11:14:28.734375Z
+23
+ayush
+
+org.eclipse.wst.common.component
+file
+
+
+
+
+2012-07-05T05:50:23.126365Z
+7993714a8e53ba9c77bd91e436685e59
+2012-07-16T11:14:28.734375Z
+23
+ayush
+

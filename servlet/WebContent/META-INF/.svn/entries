@@ -1,0 +1,29 @@
+8
+
+dir
+23
+http://idealabs:81/svn/miniidealabs2012/incomesaving/trunk/incomesavingserver/WebContent/META-INF
+http://idealabs:81/svn/miniidealabs2012
+
+
+
+2012-07-16T11:14:28.734375Z
+23
+ayush
+
+
+svn:special svn:externals svn:needs-lock
+
+MANIFEST.MF
+file
+
+
+
+
+2012-07-05T05:50:23.139366Z
+b10f37c8bb1803d98c127a01d1a71cc5
+2012-07-16T11:14:28.734375Z
+23
+ayush
+has-props
+

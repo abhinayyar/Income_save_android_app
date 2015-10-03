@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aa"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Terms and conditions"
+        android:textColor="#FFA500"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+ 
+     <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="* Following policies are based on the LIC Guidlines\n\n
+* Policy displayed is on the basis of the savings of the user\n\n
+*Policy display is the mere suggestion and user has to choose the policy smartly"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+
+    <Button
+        android:id="@+id/schemesbut"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="30dp"
+        android:text="Check out" />
+
+   
+
+</LinearLayout>

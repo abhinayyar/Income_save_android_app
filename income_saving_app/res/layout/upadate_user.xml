@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:background="@drawable/aa"
+  android:orientation="vertical"
+  >
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text="Medium Text"
+  android:textColor="#FFA500"
+  android:id="@+id/Name"
+  android:layout_marginTop="5dp"
+  />
+  
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_marginTop="25dp"
+  android:text="Change Your Password"
+  
+  />
+  
+  <EditText
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:layout_marginTop="2dp"
+  android:id="@+id/cngPassword"
+  android:hint="change your Password"
+  android:autoText="false"
+  />
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_marginTop="5dp"
+  android:text="Change your Salary"
+  
+  />
+  <EditText
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:id="@+id/cngSalary"
+  android:hint="change your salary (monthly salary)"
+  android:layout_marginTop="2dp"
+  android:inputType="number"
+  android:digits="0123456789"
+  android:singleLine="true"
+  />
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:layout_marginTop="5dp"
+  android:text="Change time to access the application"
+  
+  />
+  <EditText
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:layout_marginTop="2dp"
+  android:id="@+id/cngtime"
+  android:inputType="number"
+  android:digits="0123456789"
+  android:hint="change time in 24 hr format"
+  android:singleLine="true"
+  />
+  
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text="change alarm type"
+  android:layout_marginTop="5dp"
+  
+  />
+  <Spinner
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:layout_marginTop="2dp"
+  android:id="@+id/spinner1"
+  />
+  <Button
+  android:layout_width="150dp"
+  android:layout_height="wrap_content"
+   android:layout_marginTop="10dp"
+   android:layout_marginLeft="70dp"
+  android:id="@+id/cngbtnAdd"
+  android:text="@string/but"
+  android:onClick="btnAddEmp_Click"
+  />
+  
+</LinearLayout>

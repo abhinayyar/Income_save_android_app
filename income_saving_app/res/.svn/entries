@@ -1,0 +1,34 @@
+8
+
+dir
+21
+http://idealabs:81/svn/miniidealabs2012/incomesaving/trunk/income_saving_app/res
+http://idealabs:81/svn/miniidealabs2012
+
+
+
+2012-07-16T11:13:05.156250Z
+21
+ayush
+
+
+svn:special svn:externals svn:needs-lock
+
+values
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+raw
+dir
+
+layout
+dir
+
